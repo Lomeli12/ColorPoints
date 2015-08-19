@@ -1,0 +1,12 @@
+[
+{
+  "modid": "colorpoints",
+  "name": "Color Points",
+  "description": "Colored waypoints without the minimap.",
+  "version" : "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.lomeli12.net/",
+  "authorList": ["Lomeli12"],
+  "credits": "Lomeli12"
+}
+]

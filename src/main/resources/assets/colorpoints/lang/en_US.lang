@@ -1,0 +1,33 @@
+# Mod Tab
+itemGroup.colorpoints.tab=Color Points
+
+# Items
+item.colorpoints.triCompass.name=Tridirectional Compass
+
+# Blocks
+tile.colorpoints.waypointBlock.name=Waypoint Block
+tile.colorpoints.resetBlock.name=Reset Block
+
+# Colors
+color.colorpoints.White=White
+color.colorpoints.Orange=Orange
+color.colorpoints.Magenta=Magenta
+color.colorpoints.LightBlue=Light Blue
+color.colorpoints.Yellow=Yellow
+color.colorpoints.Lime=Lime
+color.colorpoints.Pink=Pink
+color.colorpoints.Gray=Gray
+color.colorpoints.LightGray=Light Gray
+color.colorpoints.Cyan=Cyan
+color.colorpoints.Purple=Purple
+color.colorpoints.Blue=Blue
+color.colorpoints.Brown=Brown
+color.colorpoints.Green=Green
+color.colorpoints.Red=Red
+color.colorpoints.Black=Black
+
+# Messages
+chat.colorpoints.clearPoint=Cleared waypoint %s.
+chat.colorpoints.clearAll=Cleared all waypoints.
+chat.colorpoints.setPoint=Set waypoint %s to (%s, %s, %s).
+chat.colorpoints.wrongDim=The compass spins erratically, as if it can't find the point in this world.
